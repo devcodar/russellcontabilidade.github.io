@@ -1102,7 +1102,7 @@ section.testimonials .section-heading {
 .testimonials .item i {
   width: 70px;
   height: 70px;
-  background-color: #43ba7f;
+  background-color: #082e6c;
   display: inline-block;
   text-align: center;
   line-height: 70px;
@@ -1129,7 +1129,7 @@ section.testimonials .section-heading {
   display: block;
   font-size: 15px;
   font-weight: 600;
-  color: #43ba7f;
+  color: #082e6c;
 }
 
 .testimonials .item img {
@@ -1201,7 +1201,7 @@ footer p {
 }
 
 footer p a {
-  color: #082e6c;
+  color: #cecece;
 }
 
 
