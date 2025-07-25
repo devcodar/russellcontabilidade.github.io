@@ -224,7 +224,7 @@ header
 --------------------------------------------- 
 */
 .background-header {
-  background-color: #212741;
+  background-color: #3054f5;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -1201,7 +1201,7 @@ footer p {
 }
 
 footer p a {
-  color: #cecece;
+  color: #4d5664;
 }
 
 
@@ -1637,7 +1637,7 @@ body {
     display: inline-block;
   }
   .header-area {
-    background-color: #212741;
+    background-color: #3054f5;
   }
   .slide-inner .header-text {
     width: 80%;
@@ -1716,6 +1716,7 @@ body {
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
     line-height: 100px;
+    background-color: #3054f5;
   }
   .background-header .main-nav .logo {
     line-height: 80px;
